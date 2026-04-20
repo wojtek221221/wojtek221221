@@ -1,8 +1,6 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋</h1>
 
 ###
-
-<p align="center">My name is Wojtek and I'm a webdeveloper. If you need website just text me on discord</p>
 
 ###
 
